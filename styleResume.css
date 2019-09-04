@@ -1,0 +1,21 @@
+body{
+	/* changes the background-color to red*/
+	/*background-image: url("https://jolttx.com/wp-content/uploads/2019/05/istockphoto-601370366-612x612.jpg");
+	/*text-align: center;*/
+	margin-left: 100px;
+	background-color: black;
+}
+h1{
+	height:200px;
+	width:100%;
+	color: white;
+	text-align: center;
+	}
+img{
+	height:400px;
+	width:25%;
+}
+p,ul,ol,a,li,h2, nav{
+	color: white;
+	text-align: center;
+}
